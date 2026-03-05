@@ -1,6 +1,6 @@
 
-
-HandGestureProject
+HAND GESTURE RECOGNITION FOR TOUCHLESS INTERFACES
+   Deep Learning Using Webcam-Based System
 
 
 STEP 1: CREATE AND ACTIVATE VIRTUAL ENVIRONMENT
@@ -78,3 +78,4 @@ final output
         🖐️ Three Fingers: Show desktop
 
         🤘 Rock Sign: Exit
+

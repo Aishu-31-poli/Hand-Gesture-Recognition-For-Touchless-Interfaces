@@ -1,7 +1,7 @@
 
 
 HandGestureProject
-│
+
 
 STEP 1: CREATE AND ACTIVATE VIRTUAL ENVIRONMENT
 # Create virtual environment with Python 3.10
@@ -76,4 +76,5 @@ final output
         🤌 Two Fingers: Volume control
         👌 OK Sign: Double click
         🖐️ Three Fingers: Show desktop
+
         🤘 Rock Sign: Exit

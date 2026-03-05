@@ -40,16 +40,16 @@ Gestures to Collect:
 
 No.	Gesture Name	        Action             
 
-1.	index_point 	        Move cursor               
-2.	thumb_up	              Left click
-3.	peace_sign	            Right click
-4.	fist	                   Scroll up
-5.	open_palm	              Scroll down
-6.	pinch	                   Drag & drop
-7.	two_finger_swipe	         Volume control
-8.	ok_sign	                 Double click
-9. three_fingers	           Show desktop
-10. rock_sign	              Exit program
+1.	index_point -	        Move cursor               
+2.	thumb_up	    -          Left click
+3.	peace_sign	-            Right click
+4.	fist	        -           Scroll up
+5.	open_palm	   -           Scroll down
+6.	pinch	          -         Drag & drop
+7.	two_finger_swipe	-         Volume control
+8.	ok_sign	          -       Double click
+9. three_fingers	     -      Show desktop
+10. rock_sign	         -     Exit program
 
       
 STEP 4: TRAIN MODEL
@@ -77,5 +77,6 @@ final output
         🖐️ Three Fingers: Show desktop
 
         🤘 Rock Sign: Exit
+
 
 
